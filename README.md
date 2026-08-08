@@ -9,7 +9,7 @@
 
 ## Connect with me
 
-<a href="[https://www.linkedin.com/in/sainab-kaleel/](https://www.linkedin.com/in/mohamed-kaleel-sainab-4813bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-kaleel-sainab-4813bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
