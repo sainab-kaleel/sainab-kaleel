@@ -9,22 +9,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-sainab-kaleel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-sainab-kaleel" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mohamed-sainab-kaleel](https://www.linkedin.com/in/mohamed-kaleel-sainab-4813bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-sainab-kaleel" height="30" width="40" /></a>
 </p>
 
-## 💻 Languages
+## Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,html,css,php" />
 </p>
 
-## ⚛️ Frameworks & Libraries
+## Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,figma,vscode" />
