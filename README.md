@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **mohamedkaleelsainab@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/mohamed-sainab-kaleel](https://www.linkedin.com/in/mohamed-kaleel-sainab-4813bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-sainab-kaleel" height="30" width="40" /></a>
-</p>
+## 🤝 Connect with me
+
+<a href="[https://www.linkedin.com/in/sainab-kaleel/](https://www.linkedin.com/in/mohamed-kaleel-sainab-4813bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
 
 ## Languages
 
